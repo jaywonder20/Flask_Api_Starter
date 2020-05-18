@@ -1,0 +1,11 @@
+env/
+.idea/
+venv/
+migrations/
+__pycache__/
+.pytest_cache/
+tests/__pycache__/
+app.egg-info/
+app/__pycache__/*
+.env
+.flaskenv
