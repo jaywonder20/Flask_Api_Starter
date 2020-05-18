@@ -12,7 +12,7 @@ Flask-APi Starter Template With Application Context and SqlAlchemy
 ##### This WireFrame uses a number of open source projects to work properly:
 * [Flask](https://flask.palletsprojects.com/en/1.1.x/) - A Micro Web Framework
 * [Flask restful ](https://flask-restful.readthedocs.io/en/latest/) - Flask extension for building REST APIs
-* [Flask restfull Swagger 2](https://github.com/soerface/flask-restful-swagger-2.0) - A Swagger spec extractor for flask-restful 
+* [Flask restful Swagger 2](https://github.com/soerface/flask-restful-swagger-2.0) - A Swagger spec extractor for flask-restful 
 * [Flask CORS](https://flask-cors.readthedocs.io/en/latest/) - A Flask extension for handling Cross Origin Resource Sharing (CORS), making cross-origin AJAX possible
 * [Python Dotenv](https://pypi.org/project/python-dotenv/) - For managing app settings during development and in production
 * [Flask-SQLAlchemy](https://pypi.org/project/python-dotenv/) - an extension for Flask that adds support for SQLAlchemy 
