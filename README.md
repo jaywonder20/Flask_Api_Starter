@@ -56,8 +56,11 @@ Navigate to your server address in your preferred browser.
 
 ![App](screenshot.png)
 
-####### Other endpoints and customizations can then be added, THIS IS JUST A BASIC BOILERPLATE
+##### Other endpoints and customizations can then be added, THIS IS JUST A BASIC BOILERPLATE
  
+ ```sh
+```
+
 
 ##### Database migrations can also be made
 ```sh
