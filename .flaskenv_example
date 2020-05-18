@@ -1,0 +1,6 @@
+SECRET_KEY="p8=}cQ{KCE-{$UT\"
+FLASK_ENV=development
+TESTING = True
+DEBUG = True
+FLASK_RUN_PORT =5000
+
